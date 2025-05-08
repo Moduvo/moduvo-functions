@@ -45,7 +45,7 @@ sw:Start()
 sw:Stop()
 print("Time:", sw:ElapsedTime())
 ```
-(Otheres added soon)
+(Others added soon)
 
 ## License
 MIT License — Copyright (c) 2025 MODUVO
